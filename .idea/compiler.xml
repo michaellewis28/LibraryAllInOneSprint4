@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="LibraryAllInOneSprint4" target="11" />
       <module name="LibraryAppAllInOne" target="11" />
     </bytecodeTargetLevel>
   </component>
